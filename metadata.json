@@ -1,0 +1,8 @@
+{
+  "name": "AETWEALTHCAPITAL | Premier Wealth Management & Investment Solutions",
+  "description": "Building Wealth. Securing Your Financial Future. Institutional-grade wealth management, portfolio planning, multi-asset trading, and personalized financial advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
